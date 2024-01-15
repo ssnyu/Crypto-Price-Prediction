@@ -1,8 +1,8 @@
-# Cryptocurrency Price Prediction with Sentiment Analysis
+# Ethereum Price Prediction with Sentiment Analysis
 
 ## Overview
 
-This repository contains the code implementation for the research paper titled "Cryptocurrency Price Prediction with Sentiment Analysis." The paper introduces a novel model that addresses limitations in existing works by incorporating sentiment analysis from various sources such as Twitter, Reddit, and CoinMarketCap news. The model leverages a robust deep learning architecture based on transformers for improved predictive capabilities.
+This repository contains the code implementation for the research paper titled "Ethereum Price Prediction with Sentiment Analysis." The paper introduces a novel model that addresses limitations in existing works by incorporating sentiment analysis from various sources such as Twitter, Reddit, and CoinMarketCap news. The model leverages a robust deep-learning architecture based on transformers for improved predictive capabilities.
 
 ## Key Features
 
@@ -27,5 +27,5 @@ The results showcase the model's performance metrics, including Mean Squared Err
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cryptocurrency-price-prediction.git
+   git clone https://github.com/your-username/Ethereum-price-prediction.git
    cd cryptocurrency-price-prediction
