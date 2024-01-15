@@ -20,7 +20,8 @@ The experimental section explores the model's performance under different featur
 
 ## Results
 
-The results showcase the model's performance metrics, including Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE), compared to other models such as LSTM, ANN, and MLP.
+The results showcase the model's performance metrics, including Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE), compared to other models such as LSTM, ANN, and MLP. <br>
+
 ![Results](https://github.com/ssnyu/Ethereum-Price-Prediction/blob/main/Figures/Results.png)
 
 
@@ -30,4 +31,4 @@ The results showcase the model's performance metrics, including Mean Squared Err
 
    ```bash
    git clone https://github.com/your-username/Ethereum-price-prediction.git
-   cd cryptocurrency-price-prediction
+   cd Ethereum-price-prediction
